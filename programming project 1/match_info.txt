@@ -1,0 +1,17 @@
+robert,21,andrei,2
+vlad,21,robi,5
+robi,21,andrei,10
+andrei,12,vlad,21
+vlad,21,andrei,5
+rebeca,21,sara,15
+andrei,21,ana,10
+louis,14,patrick,21
+horica,20,breaz,21
+horica,21,andrei,17
+robi,16,carla,21
+vlad,21,andrei,11
+ana,21,maria,15
+robert,21,andrei,21
+ana,21,ion,4
+ana,21,ion,4
+andrei,21,eric,1
